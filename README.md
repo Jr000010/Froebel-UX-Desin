@@ -12,3 +12,12 @@ When a user visits the website, they should come to a judgment that the school h
 To enable all these processes, the website will have a homepage, an about us page, an application page, a contact page, a gallery and a notices page.
 
 This website should overall be able to help the school engage with its community and therefore improve their operations depending on the feedback they get from this online interaction.
+
+### Sitemap
+
+- Homepage
+- Application
+- Notices
+- Events
+- Contact Us
+- About Us
