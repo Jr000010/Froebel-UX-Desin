@@ -1,6 +1,6 @@
 # Froebel-UX-Desin
 
-#### froebelschool.co.ke
+#### froebelschool.co.ke ***[link](https://froebelschool.co.ke){:target="_blank"}***
 ### Definition and purpose
 This design describes a website that should help a school with their communications with its stakeholders, as well as attract other audiences that don’t interact with them yet. I created it to make these operations easier to manage. Parents or guardians who are looking for a place for their children to learn can browse the website to learn more about the school. If they are satisfied they can send their details and begin the admission process online. External parties who want to supply their products to the school, or offer sponsorship can also send their messages and proposals through the website.
 
